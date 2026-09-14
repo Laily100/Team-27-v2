@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|c:\\mac\\home\\desktop\\team 27 1\\team-27\\divedeepwebapp\\persistence\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|solutionrelative:persistence\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|c:\\mac\\home\\desktop\\team 27 1\\team-27\\divedeepwebapp\\persistence\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|solutionrelative:persistence\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|c:\\mac\\home\\desktop\\team 27 1\\team-27\\divedeepwebapp\\divedeepwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|solutionrelative:divedeepwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|c:\\mac\\home\\desktop\\team 27 1\\team-27\\divedeepwebapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|c:\\mac\\home\\desktop\\team 27 1\\team-27\\divedeepwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|c:\\mac\\home\\desktop\\team 27 1\\team-27\\divedeepwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|c:\\mac\\home\\desktop\\team 27 1\\team-27\\divedeepwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF02800-9248-4EC3-8C2D-1BA0C9AA889C}|DiveDeepWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Persistence\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\CategoryRepository.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Persistence\\CategoryRepository.cs",
+              "RelativeToolTip": "Persistence\\CategoryRepository.cs",
+              "ViewState": "AgIAAAIAAACAzszMzMwHwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T19:49:36.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T19:08:29.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiveDeepWebApp.csproj",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\DiveDeepWebApp.csproj",
+              "RelativeDocumentMoniker": "DiveDeepWebApp.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\DiveDeepWebApp.csproj",
+              "RelativeToolTip": "DiveDeepWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T10:46:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Persistence\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\ProductRepository.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Persistence\\ProductRepository.cs",
+              "RelativeToolTip": "Persistence\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T10:46:22.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAgAAAAgMzMzM/MvwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T10:46:20.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAANzMzM7MiwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T08:31:58.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\team 27 1\\Team-27\\DiveDeepWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAABAZmZmZmYUwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T08:26:00.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
