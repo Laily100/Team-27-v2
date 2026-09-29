@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiveDeepWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaedbe990cc63d2041b530e466b966a4d47826d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa8074937e6a62a4d45b01d061dd0c60d7278f77")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiveDeepWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiveDeepWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

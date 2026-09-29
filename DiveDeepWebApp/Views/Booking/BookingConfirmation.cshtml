@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model DiveDeepWebApp.Models.Booking
+
+<h1 style="text-align: center; color:forestgreen">Booking bekræftet</h1>
+
+<div class="card p-4 mt-3 shadow">
+    <h3>@Model.Product.Brand @Model.Product.Model</h3>
+
+    <p><strong>Størrelse:</strong> @Model.SelectedSize</p>
+    <p><strong>Startdato:</strong> @Model.StartDate.ToString("dd-MM-yyyy")</p>
+    <p><strong>Slutdato:</strong> @Model.EndDate.ToString("dd-MM-yyyy")</p>
+
+    <p><strong>Antal dage:</strong> @( (Model.EndDate - Model.StartDate).Days )</p>
+
+    <hr />
+
+    <p><strong>Totalpris:</strong> @Model.TotalPrice kr</p>
+
+    <hr />
+
+    <p><strong>Kunde:</strong> @Model.CustomerName</p>
+    <p><strong>Telefon:</strong> @Model.PhoneNumber</p>
+
+    <a asp-controller="Product" asp-action="Index" class="btn btn-primary mt-3">
+        Tilbage til produkter
+    </a>
+</div>

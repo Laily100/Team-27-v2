@@ -10,7 +10,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 1,
                 Brand = "Scubapro",
                 Model = "Navigator Lite BCD",
-                Sizes = "S, M, L",
+                Sizes = new List<string> { "S", "M", "L" },
                 PricePerDay = 125,
                 CategoryId = 1
             },
@@ -20,7 +20,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 2,
                 Brand = "Scubapro",
                 Model = "BCD Glide",
-                Sizes = "S, M, L",
+                Sizes = new List<string> { "S", "M", "L" },
                 PricePerDay = 140,
                 CategoryId = 1
             },
@@ -30,7 +30,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 3,
                 Brand = "Scubapro",
                 Model = "BCD Hydros Pro",
-                Sizes = "S, M, L",
+                Sizes = new List<string> { "S", "M", "L" },
                 PricePerDay = 200,
                 CategoryId = 1
             },
@@ -40,7 +40,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 4,
                 Brand = "Seac",
                 Model = "BCD Modular",
-                Sizes = "S, M, L",
+                Sizes = new List<string> { "S", "M", "L" },
                 PricePerDay = 145,
                 CategoryId = 1
             },
@@ -50,7 +50,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 5,
                 Brand = "Scubapro",
                 Model = "Definition",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Våddragt",
                 Gender = "Herre/Dame",
                 Thickness = 3,
@@ -63,7 +63,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 6,
                 Brand = "Scubapro",
                 Model = "Definition",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Våddragt",
                 Gender = "Herre/Dame",
                 Thickness = 5,
@@ -76,7 +76,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 7,
                 Brand = "Scubapro",
                 Model = "Definition",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Våddragt",
                 Gender = "Herre/Dame",
                 Thickness = 7,
@@ -89,7 +89,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 8,
                 Brand = "Waterproof",
                 Model = "W5",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Våddragt",
                 Gender = "Herre/Dame",
                 Thickness = 3.5m,
@@ -102,7 +102,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 9,
                 Brand = "Fourth Element",
                 Model = "Proteus",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Våddragt",
                 Gender = "Herre/Dame",
                 Thickness = 5m,
@@ -115,7 +115,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 10,
                 Brand = "Scubapro",
                 Model = "Exodry 4.0",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Tørdragt",
                 Gender = "Herre/Dame",
                 Thickness = null,
@@ -128,7 +128,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 11,
                 Brand = "Waterproof",
                 Model = "D7 Evo",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Tørdragt",
                 Gender = "Herre/Dame",
                 Thickness = null,
@@ -141,7 +141,7 @@ namespace DiveDeepWebApp.Persistence
                 ProductId = 12,
                 Brand = "Santi",
                 Model = "E.Lite Plus",
-                Sizes = "XS, S, M, L, XL",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
                 Type = "Tørdragt",
                 Gender = "Herre/Dame",
                 Thickness = null,
@@ -262,6 +262,104 @@ namespace DiveDeepWebApp.Persistence
                 PricePerDay = 75,
                 CategoryId = 5
             },
+
+            new Product
+            {
+                ProductId = 25,
+                Brand = "Fourth Element",
+                Model = "Scout Kontrast",
+                PricePerDay = 75,
+                CategoryId = 5
+            },
+
+            new Product
+            {
+                ProductId = 26,
+                Brand = "Fourth Element",
+                Model = "Scout Enhance",
+                PricePerDay = 75,
+                CategoryId = 5
+            },
+
+            new Product
+            {
+                ProductId = 27,
+                Brand = "Tusa",
+                Model = "Element",
+                PricePerDay = 75,
+                CategoryId = 5
+            },
+
+              new Product
+            {
+                ProductId = 28,
+                Brand = "Scubapro",
+                Model = "Jet Fin",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
+                PricePerDay = 50,
+                CategoryId = 6
+            },
+
+              new Product
+            {
+                ProductId = 29,
+                Brand = "Scubapro",
+                Model = "GO Travel",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
+                PricePerDay = 50,
+                CategoryId = 6
+            },
+
+              new Product
+            {
+                ProductId = 30,
+                Brand = "Scubapro",
+                Model = "Seawing Supernova",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
+                PricePerDay = 60,
+                CategoryId = 6
+            },
+
+              new Product
+            {
+                ProductId = 31,
+                Brand = "Seac",
+                Model = "Propulsion",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
+                PricePerDay = 50,
+                CategoryId = 6
+            },
+
+              new Product
+            {
+                ProductId = 32,
+                Brand = "Seac",
+                Model = "ALA",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
+                PricePerDay = 50,
+                CategoryId = 6
+            },
+
+              new Product
+            {
+                ProductId = 33,
+                Brand = "Fourth Element",
+                Model = "Tech",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
+                PricePerDay = 75,
+                CategoryId = 6
+            },
+
+              new Product
+            {
+                ProductId = 34,
+                Brand = "Fourth Element",
+                Model = "Rec Fin",
+                Sizes = new List<string> { "XS", "S", "M", "L", "XL" },
+                PricePerDay = 80,
+                CategoryId = 6
+            },
+
 
         };
 

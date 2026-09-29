@@ -2,9 +2,9 @@
 
 namespace DiveDeepWebApp.Persistence
 {
-    public class CategoryRepository
+    public static class CategoryRepository
     {
-        public List<Category> categories = new List<Category>()
+        public static List<Category> categories = new List<Category>()
         {
             new Category
             {

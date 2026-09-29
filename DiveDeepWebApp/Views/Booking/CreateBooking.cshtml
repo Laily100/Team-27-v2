@@ -1,0 +1,47 @@
+﻿@model DiveDeepWebApp.Models.Booking
+
+<h1>Booking af produkt</h1>
+
+<div class="row justify-content-center">
+
+    <div class="col-md-6">
+        <form asp-action="CreateBooking" method="post">
+
+            <div class="mb-3">
+                <label asp-for="CustomerName" class="form-label">Fulde navn</label>
+                <input asp-for="CustomerName" class="form-control"/>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="PhoneNumber" class="form-label">Telefonnummer</label>
+                <input asp-for="PhoneNumber" class="form-control"/>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="SelectedSize" class="form-label">Vælg den ønskede størrelse</label>
+                <select asp-for="SelectedSize" asp-items="@(new SelectList(Model.Product.Sizes))" class="form-select"></select>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="StartDate" class="form-label">Startdatoen</label>
+                <input asp-for="StartDate" class="form-control" type="date" min="@DateTime.Now.ToString("yyyy-MM-dd")" />
+            <div class="mb-3">
+                <label asp-for="EndDate" class="form-label">Slutdatoen</label>
+                    <input asp-for="EndDate" class="form-control" type="date" min="@DateTime.Now.ToString("yyyy-MM-dd")" />
+
+                    <a asp-controller="Booking" asp-action="BookingConfirmation" asp-route-id="@Model.ProductId"
+                        class="btn btn-success mt-3">
+                        Bekræft booking
+                    </a>
+                    <button type="button" class="btn btn-secondary mt-3" onclick="window.history.back();">Annuller</button>
+
+        </form>
+
+    </div>
+    
+
+
+
+</div>
+
+

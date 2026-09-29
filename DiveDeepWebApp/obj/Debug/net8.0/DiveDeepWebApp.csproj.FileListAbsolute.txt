@@ -31,3 +31,37 @@ C:\Mac\Home\Documents\3. semester\DiveDeepWebApp\obj\Debug\net8.0\refint\DiveDee
 C:\Mac\Home\Documents\3. semester\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.pdb
 C:\Mac\Home\Documents\3. semester\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.genruntimeconfig.cache
 C:\Mac\Home\Documents\3. semester\DiveDeepWebApp\obj\Debug\net8.0\ref\DiveDeepWebApp.dll
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\appsettings.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\DiveDeepWebApp.staticwebassets.endpoints.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\DiveDeepWebApp.staticwebassets.runtime.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\DiveDeepWebApp.exe
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\DiveDeepWebApp.deps.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\DiveDeepWebApp.runtimeconfig.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\DiveDeepWebApp.dll
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\bin\Debug\net8.0\DiveDeepWebApp.pdb
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.AssemblyInfo.cs
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.RazorAssemblyInfo.cache
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.RazorAssemblyInfo.cs
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.sourcelink.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\scopedcss\bundle\DiveDeepWebApp.styles.css
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\scopedcss\projectbundle\DiveDeepWebApp.bundle.scp.css
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.dll
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\refint\DiveDeepWebApp.dll
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.pdb
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\DiveDeepWebApp.genruntimeconfig.cache
+C:\Mac\Home\Desktop\Team27 v2 med ela\Team-27-v2\DiveDeepWebApp\obj\Debug\net8.0\ref\DiveDeepWebApp.dll

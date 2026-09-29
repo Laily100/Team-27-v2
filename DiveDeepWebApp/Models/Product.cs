@@ -5,7 +5,7 @@
         public int ProductId { get; set; }
         public string Brand { get; set; }
         public string Model { get; set; }
-        public string Sizes { get; set; }
+        public List<string> Sizes { get; set; }
         public decimal PricePerDay { get; set; }
 
         public int CategoryId { get; set; }
