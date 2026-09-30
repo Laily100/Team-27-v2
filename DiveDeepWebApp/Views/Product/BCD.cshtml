@@ -18,7 +18,8 @@
                     
                             <p class="card-text">@product.Model</p>
 
-                            <h6 class="card-text">Størrelse: @product.Sizes</h6>
+                            <h6 class="card-text">Størrelse: @string.Join(", ", product.Sizes)</h6>
+
 
                             <h6 class="text-success">@product.PricePerDay kr pr. døgn</h6>
 

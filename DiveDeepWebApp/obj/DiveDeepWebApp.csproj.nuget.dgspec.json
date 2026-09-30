@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mac\\Home\\Desktop\\Team27 v2 med ela\\Team-27-v2\\DiveDeepWebApp\\DiveDeepWebApp.csproj": {}
+    "C:\\Users\\laily10\\Projekt\\DiveDeepWebApp\\DiveDeepWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Mac\\Home\\Desktop\\Team27 v2 med ela\\Team-27-v2\\DiveDeepWebApp\\DiveDeepWebApp.csproj": {
+    "C:\\Users\\laily10\\Projekt\\DiveDeepWebApp\\DiveDeepWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Team27 v2 med ela\\Team-27-v2\\DiveDeepWebApp\\DiveDeepWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\laily10\\Projekt\\DiveDeepWebApp\\DiveDeepWebApp.csproj",
         "projectName": "DiveDeepWebApp",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Team27 v2 med ela\\Team-27-v2\\DiveDeepWebApp\\DiveDeepWebApp.csproj",
+        "projectPath": "C:\\Users\\laily10\\Projekt\\DiveDeepWebApp\\DiveDeepWebApp.csproj",
         "packagesPath": "C:\\Users\\laily10\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Team27 v2 med ela\\Team-27-v2\\DiveDeepWebApp\\obj\\",
+        "outputPath": "C:\\Users\\laily10\\Projekt\\DiveDeepWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

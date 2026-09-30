@@ -1,3 +1,6 @@
+using DiveDeepWebApp.Persistence;
+using Microsoft.EntityFrameworkCore;
+
 namespace DiveDeepWebApp
 {
     public class Program
@@ -5,6 +8,9 @@ namespace DiveDeepWebApp
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<BookingDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
