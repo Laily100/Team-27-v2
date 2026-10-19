@@ -6,9 +6,9 @@ namespace DiveDeepWebApp.Controllers
     public class ProductController : Controller
     {
 
-        private readonly BookingDbContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public ProductController(BookingDbContext context)
+        public ProductController(ApplicationDbContext context)
         {
             _context = context;
         }

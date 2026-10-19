@@ -7,9 +7,9 @@ namespace DiveDeepWebApp.Controllers
     public class BookingController : Controller
     {
         //Controlleren kan nu snakke med databasen med dette
-        private readonly BookingDbContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public BookingController(BookingDbContext context)
+        public BookingController(ApplicationDbContext context)
         {
             _context = context;
         }
@@ -79,6 +79,13 @@ namespace DiveDeepWebApp.Controllers
             {
                 ModelState.AddModelError("EndDate", "Vælg venligst en slutdato");
             }
+
+            bool overlap = _context.Bookings.Any(b =>
+                b.ProductId == Booking.ProductId &&
+                Booking.StartDate < b.EndDate &&
+                Booking.EndDate > b.StartDate
+            );
+
 
             if (!ModelState.IsValid)
             {
